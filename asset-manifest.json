@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Goal-App/static/css/main.b869361c.chunk.css",
+    "main.js": "/React-Goal-App/static/js/main.1e7221df.chunk.js",
+    "main.js.map": "/React-Goal-App/static/js/main.1e7221df.chunk.js.map",
+    "runtime-main.js": "/React-Goal-App/static/js/runtime-main.48540756.js",
+    "runtime-main.js.map": "/React-Goal-App/static/js/runtime-main.48540756.js.map",
+    "static/js/2.ccee3346.chunk.js": "/React-Goal-App/static/js/2.ccee3346.chunk.js",
+    "static/js/2.ccee3346.chunk.js.map": "/React-Goal-App/static/js/2.ccee3346.chunk.js.map",
+    "index.html": "/React-Goal-App/index.html",
+    "static/css/main.b869361c.chunk.css.map": "/React-Goal-App/static/css/main.b869361c.chunk.css.map",
+    "static/js/2.ccee3346.chunk.js.LICENSE.txt": "/React-Goal-App/static/js/2.ccee3346.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48540756.js",
+    "static/js/2.ccee3346.chunk.js",
+    "static/css/main.b869361c.chunk.css",
+    "static/js/main.1e7221df.chunk.js"
+  ]
+}
